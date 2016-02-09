@@ -1,0 +1,4 @@
+---
+# defaults file for ansible-role-pam
+
+pam_use_sssd: False
